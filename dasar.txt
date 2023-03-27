@@ -1,0 +1,17 @@
+3/27/2023 pkl 08:51
+
+dimulai dari video pelajaran ke -8
+Pelajaran pertama yang diajarkan pa sandika galih ialah nilai dan tipe data pada
+javascript
+
+di dalam komputer kita isinya semuanya dalah data
+"bit  /binary digit merupakan satuan terkecil data yang ada di dalam komputer kita"
+
+Peran yang dihasilkan dari sekumpulan bit berubah menjadi nilai atau/value yang berbeda
+di JS terdapat 6 tipe data
+1.number
+2.string
+3.boolean
+4.object
+5.function
+6.undefined
